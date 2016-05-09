@@ -1,0 +1,27 @@
+body{   
+    background-color: #CCC;
+}
+
+.navigation{
+    background-color: #eee;
+}
+
+.navigation ul li{
+    display: inline;
+}
+
+.navigation a {
+    color: #666699;
+    padding: 10px 20px;
+}
+
+#magnification{
+    height:200px;
+}
+
+.footer{
+    color: #666699;
+    background-color: #eee;   
+    height: 100px;
+    width: 100%;
+}
